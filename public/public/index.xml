@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on Denise Terry </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:61889/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 14 Nov 2014 15:34:33 PST</updated>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:61889/about/</link>
+      <pubDate>Fri, 14 Nov 2014 15:34:33 PST</pubDate>
+      
+      <guid>http://localhost:61889/about/</guid>
+      <description>&lt;p&gt;Ex-journalist, attorney, self-taught programmer, abstract painter, obsessive coffee lover and bitcoin enthusiast.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
